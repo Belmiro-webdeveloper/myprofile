@@ -1,3 +1,3 @@
 # myprofile
 
-Well it seems like I don't get this git hub thing
+Ohk I see what Is going on now
