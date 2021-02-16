@@ -1,2 +1,3 @@
 # myprofile
-In this I will code my portfolio
+
+Well it seems like I don't get this git hub thing
